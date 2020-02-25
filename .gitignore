@@ -3,3 +3,6 @@ bin
 .vscode
 .vs
 .DS_Store
+.vs/
+bin/
+obj/
